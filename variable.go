@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func variable() {
 	// cara mendeklarasikan variabel di Golang
 	var namadepan string = "Irman"
 	var namabelakang = "Turhamun"
