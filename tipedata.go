@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func tipedata() {
 	var number_uint8 uint8 = 255 //tipe data uint8 (0-255)
 	fmt.Println(number_uint8)
 	var number_uint16 uint16 = 65535 //tipe data uint16 (0 - 65535)
