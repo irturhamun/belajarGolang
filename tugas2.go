@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func tugas2() {
 	//Cek Ganjil/Genap
 	var nilai = 12414132
 	//Seleksi Kondisi menggunakan IF/ELSE Statement
