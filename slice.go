@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func slice() {
 	//Inisiasi slice (Dynamic Array)
 	var buah = []string{"apel", "mangga", "jeruk", "anggur"}
 	buah = append(buah, "pisang") //menambah element slice
