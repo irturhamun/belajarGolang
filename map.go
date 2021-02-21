@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func map() {
+func Map() {
 	//inisiasi map di goolang
 	var harga_makanan = map[string]int{"ayam_goreng": 15000, "ayam_geprek": 20000}
 	//pemanggilan map
