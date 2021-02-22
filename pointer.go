@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func pointer() {
 	var nomor int = 10
 	var kata string = "Ini Stringnya"
 	var alamatNomor *int = &nomor //pointer ke hard disk
