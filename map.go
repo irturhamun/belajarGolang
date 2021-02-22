@@ -2,10 +2,10 @@ package main
 
 import "fmt"
 
-func Map() {
+func mapgolang() {
 	//inisiasi map di goolang
-	var harga_makanan = map[string]int{"ayam_goreng": 15000, "ayam_geprek": 20000}
+	var hargamakanan = map[string]int{"ayam_goreng": 15000, "ayam_geprek": 20000}
 	//pemanggilan map
-	fmt.Println("ayam goreng", harga_makanan["ayam_goreng"])
-	fmt.Println("ayam geprek", harga_makanan["ayam_geprek"])
+	fmt.Println("ayam goreng", hargamakanan["ayam_goreng"])
+	fmt.Println("ayam geprek", hargamakanan["ayam_geprek"])
 }

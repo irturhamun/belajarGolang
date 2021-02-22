@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func fungsivariadic() {
 	var rataan = hitung(2, 35, 6, 3, 1, 231, 53, 2, 121, 1)
 	var pesan = fmt.Sprintf("Rataan : %.2f", rataan)
 	fmt.Println(pesan)
