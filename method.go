@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func method() {
 	var s1 pelajar
 	var s2 = pelajar{"Ihlas", 21}
 	s1.nama = "Amin"
