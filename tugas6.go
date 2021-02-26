@@ -2,6 +2,6 @@ package main
 
 import "belajarGolang/library"
 
-func main() {
+func tugas6() {
 	library.TampilkanData()
 }
